@@ -1,0 +1,15 @@
+<resources>
+    <string name="app_name">atividadeTable</string>
+    <string name="colunaNome">Nome</string>
+    <string name="colunaEndereco">Endereço</string>
+    <string name="colunaTelefone">Telefone</string>
+    <string name="colunaFoto">Foto</string>
+    <string name="row1Nome">Jose</string>
+    <string name="row1Endereco">Praça Antonio 342 nº 123</string>
+    <string name="row1Telefone">(34)3213-1234</string>
+
+    <string name="row2Nome">Antonio</string>
+    <string name="row2Endereco">Praça Senador 242 nº 111</string>
+    <string name="row2Telefone">(25)3235-1234</string>
+    <string name="row1Foto"></string>
+</resources>
